@@ -1,0 +1,8 @@
+# Ignore all .json files
+*.json
+
+# Ignore .env file
+.env
+
+# Ignore dbt_modules directory
+dbt_modules/
